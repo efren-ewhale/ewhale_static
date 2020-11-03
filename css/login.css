@@ -1,0 +1,24 @@
+
+body{
+	background-image: linear-gradient(to bottom, #9c155f, #610d3b);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+.btn-ewhale {
+	color: white;
+    background-color: #9c155f;
+}
+
+.btn-ewhale:hover {
+	color: white;
+	background-color: #610d3b;
+}
+
+.login-div {
+	margin-top: 15em;
+	background: white;
+}
