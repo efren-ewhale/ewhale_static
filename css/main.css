@@ -1,3 +1,12 @@
 .navbar-ewhale {
 	background-color: #ffe8f5;
 }
+.btn-ewhale {
+	color: white;
+    background-color: #9c155f;
+}
+
+.btn-ewhale:hover {
+	color: white;
+	background-color: #610d3b;
+}
